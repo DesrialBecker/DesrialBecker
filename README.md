@@ -1,5 +1,5 @@
 -  Hi, I’m @DesrialBecker.
--  I’m interested in learning a variety of coding languages.
+-  I’m am a Game Developer.
 - 📫 Reach me by email: beckerdl@miamioh.edu
 
 <!---
