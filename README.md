@@ -1,6 +1,6 @@
 -  Hi, I’m @DesrialBecker.
--  I’m am a Game Developer.
-- 📫 Reach me by email: beckerdl@miamioh.edu
+-  I’m am a Developer
+- 📫 Reach me by email: desrialmeyer@gmail.com
 
 <!---
 DesrialBecker/DesrialBecker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
